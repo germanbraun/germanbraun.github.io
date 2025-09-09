@@ -14,19 +14,22 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 [Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx).
 
-### Programa del curso
+### Administrativo
 
-[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+* [Programa Aprendizaje Automático](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+* [Clase Administrativa (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+
 
 ## Clases y Prácticos
 
-Unidad I: [Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-Unidad II: [Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
-Unidad III:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-Unidad IV:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-Unidad V:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-Unidad VI:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-Unidad VII:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad I**: 
+** Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad II**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad III**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad IV**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad V**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad VI**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* **Unidad VII**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
 
 
 ```js
