@@ -17,7 +17,8 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 ### Administrativo
 
 * [Programa Aprendizaje Automático](/docs/Administrativa/02%20Aprendizaje%20Automatico.docx.pdf)
-* [Clase Administrativa (pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
+* [Clase Administrativa]
+  * [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
 
 ## Clases y Prácticos
 
