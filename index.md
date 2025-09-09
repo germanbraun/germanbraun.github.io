@@ -10,9 +10,9 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 ### Comunicación
 
-[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* [Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
-[Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx)
+* [Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx)
 
 ### Administrativo
 
@@ -24,18 +24,25 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 * **Unidad I**: 
   * Teoría [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad II**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad III**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad IV**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad V**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad VI**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad VII**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
 
 ## Material
