@@ -2,33 +2,32 @@
 layout: default
 ---
 
-##Objetivo
+## Objetivo
 
 _El objetivo del curso es introducir los fundamentos teóricos y los diferentes modelos y algoritmos del Aprendizaje Automático._ 
 _El estudiante adquirirá conocimientos generales y prácticos del estado del arte en el tema, para su aplicación en la práctica particularmente en un contexto de Ciencias de Datos._
 
 
-###Comunicación
+### Comunicación
 
 [Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
 
 [Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx).
 
-There should be whitespace between paragraphs.
+### Programa del curso
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
 
-# Header 1
+## Clases y Prácticos
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Unidad I: [Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+Unidad II: [Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+Unidad III:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+Unidad IV:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+Unidad V:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+Unidad VI:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+Unidad VII:[Teoría](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
