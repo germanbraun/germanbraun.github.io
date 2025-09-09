@@ -53,6 +53,11 @@ algoritmos
 
 ## Tu primer modelo
 
+_(*) Adaptado de Andrew Ng course_
+
+Para correr el ejemplo, usa el ambiente Jupyter o crea un Google Colab y copia
+el pega el siguente código:
+
 ```python
 # Mi primer modelo!
 
@@ -62,14 +67,14 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 # Paso 2: Crear datos con ruido
-np.random.seed(42)  # Para reproducibilidad
+np.random.seed(42)
 
 # Superficies en m²
 metros2 = np.array([50, 60, 70, 80, 90, 100, 110, 120, 130]).reshape(-1, 1)
 
 # Precios base (aprox 1.5 mil USD por m²) + ruido aleatorio
 precio_base = 1.5 * metros2.flatten()
-ruido = np.random.normal(loc=0.0, scale=10.0, size=metros2.shape[0])  # ruido con std=10 mil
+ruido = np.random.normal(loc=0.0, scale=10.0, size=metros2.shape[0])
 precio = precio_base + ruido
 
 # Paso 3: Crear y entrenar el modelo
