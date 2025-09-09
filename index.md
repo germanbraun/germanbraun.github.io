@@ -23,7 +23,7 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 ## Clases y Prácticos
 
 * **Unidad I**: 
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
 * **Unidad II**: 
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad III**: 
