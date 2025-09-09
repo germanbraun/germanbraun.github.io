@@ -23,14 +23,27 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 ## Clases y Prácticos
 
 * **Unidad I**: 
-* * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad II**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-* **Unidad III**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-* **Unidad IV**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-* **Unidad V**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-* **Unidad VI**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
-* **Unidad VII**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad II**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad III**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad IV**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad V**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad VI**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* **Unidad VII**: 
+  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
+
+## Material
+
+### Ambiente
+[Entorno de Trabajo Jupyter](https://jupyter.fi.uncoma.edu.ar/hub/login?next=%2Fhub%2F) (usar credenciales provistas por TICs)
+
+## Tu primer modelo
 
 ```js
 // Javascript code with syntax highlighting.
