@@ -4,7 +4,11 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+**APRENDIZAJE AUTOMÁTICO**
+
+[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+
+[Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx).
 
 There should be whitespace between paragraphs.
 
