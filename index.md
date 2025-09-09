@@ -10,20 +10,20 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 ### Comunicación
 
-[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+[Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
-[Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx).
+[Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx)
 
 ### Administrativo
 
-* [Programa Aprendizaje Automático](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
-* [Clase Administrativa (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
+* [Programa Aprendizaje Automático](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+* [Clase Administrativa (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
 
 ## Clases y Prácticos
 
 * **Unidad I**: 
-** Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
+* * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad II**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
 * **Unidad III**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
 * **Unidad IV**: [Teoría (pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). [Teoría (tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477). 
