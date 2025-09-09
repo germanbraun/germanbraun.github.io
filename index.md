@@ -102,3 +102,4 @@ nueva_casa = np.array([[105]])  # 105 m²
 prediccion = modelo.predict(nueva_casa)
 print(f"Predicción para una casa de 105 m²: {prediccion[0]:.2f} mil USD")
 ```
+![Regresión](/assets/img/regression.png)
