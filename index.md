@@ -22,25 +22,26 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 ## Clases y Prácticos
 
-* **Unidad I**: 
+* **Unidad I**: Introducción al Aprendizaje Automático
   * Teoría [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad II**: 
+* **Unidad II**:  Clasificación del Aprendizaje Automático y
+algoritmos
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad III**: 
+* **Unidad III**: Preprocesamiento y generación de características
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad IV**: 
+* **Unidad IV**: Regresión
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad V**: 
+* **Unidad V**: Máquinas de Soporte Vectorial (SVM)
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad VI**: 
+* **Unidad VI**: Redes Neuronales
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-* **Unidad VII**: 
+* **Unidad VII**: Aprendizaje No supervisado
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 
