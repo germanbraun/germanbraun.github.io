@@ -53,102 +53,47 @@ algoritmos
 
 ## Tu primer modelo
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+```python
+# Mi primer modelo!
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Paso 1: Importar librerías
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 
-#### Header 4
+# Paso 2: Crear datos con ruido
+np.random.seed(42)  # Para reproducibilidad
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Superficies en m²
+metros2 = np.array([50, 60, 70, 80, 90, 100, 110, 120, 130]).reshape(-1, 1)
 
-##### Header 5
+# Precios base (aprox 1.5 mil USD por m²) + ruido aleatorio
+precio_base = 1.5 * metros2.flatten()
+ruido = np.random.normal(loc=0.0, scale=10.0, size=metros2.shape[0])  # ruido con std=10 mil
+precio = precio_base + ruido
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Paso 3: Crear y entrenar el modelo
+modelo = LinearRegression()
+modelo.fit(metros2, precio)
 
-###### Header 6
+# Paso 4: Mostrar coeficientes
+print(f"Pendiente (coeficiente): {modelo.coef_[0]:.2f}")
+print(f"Intersección (ordenada al origen): {modelo.intercept_:.2f}")
+print(f"R² (score): {modelo.score(metros2, precio):.2f}")
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Paso 5: Visualización
+plt.figure(figsize=(8, 6))
+plt.scatter(metros2, precio, color='blue', label='Datos reales (con ruido)')
+plt.plot(metros2, modelo.predict(metros2), color='red', label='Línea de regresión')
+plt.xlabel("Superficie (m²)")
+plt.ylabel("Precio (miles de USD)")
+plt.title("Regresión lineal con datos ruidosos")
+plt.legend()
+plt.grid(True)
+plt.show()
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+# Paso 6: Predicción de una casa nueva
+nueva_casa = np.array([[105]])  # 105 m²
+prediccion = modelo.predict(nueva_casa)
+print(f"Predicción para una casa de 105 m²: {prediccion[0]:.2f} mil USD")
 ```
