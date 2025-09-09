@@ -2,9 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+##Objetivo
 
-**APRENDIZAJE AUTOMÁTICO**
+_El objetivo del curso es introducir los fundamentos teóricos y los diferentes modelos y algoritmos del Aprendizaje Automático._ 
+_El estudiante adquirirá conocimientos generales y prácticos del estado del arte en el tema, para su aplicación en la práctica particularmente en un contexto de Ciencias de Datos._
+
+
+###Comunicación
 
 [Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477).
 
