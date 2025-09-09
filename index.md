@@ -11,7 +11,6 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 ### Comunicación
 
 * [Aula PEDCO](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-
 * [Grupo TELEGRAM](https://t.me/+O4K7jtf60Qw5ODIx)
 
 ### Administrativo
