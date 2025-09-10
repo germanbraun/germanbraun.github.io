@@ -22,7 +22,7 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 
 * **Unidad I**: Introducción al Aprendizaje Automático
   * Teoría [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
-  * Práctica [(pdf)](/docs/UnidadI/LaboratorioI/Laboratorio_1.pdf) [(tex)](/docs/UnidadI/LaboratorioI/Laboratorio_1.zip) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)](/docs/UnidadI/LaboratorioI/Laboratorio_1.pdf) [(tex)](/docs/UnidadI/LaboratorioI/Laboratorio_1.zip)
 * **Unidad II**:  Clasificación del Aprendizaje Automático y
 algoritmos
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
