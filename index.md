@@ -25,7 +25,7 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
   * Práctica [(pdf)](/docs/UnidadI/LaboratorioI/Laboratorio_1.pdf) [(tex)](/docs/UnidadI/LaboratorioI/Laboratorio_1.zip)
 * **Unidad II**:  Clasificación del Aprendizaje Automático y
 algoritmos
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)](/docs/UnidadII/Teoría/EIDA_Unidad_II.pdf) [(tex)](/docs/UnidadII/Teoría/EIDA_Unidad_II.zip)
   * Práctica [(pdf)](/docs/UnidadII/LaboratorioII/Laboratorio_II.pdf) [(tex)](/docs/UnidadII/LaboratorioII/Laboratorio_II.zip) [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/python_basico.ipynb)
 * **Unidad III**: Preprocesamiento y generación de características
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) 
