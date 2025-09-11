@@ -28,7 +28,7 @@ algoritmos
   * Teoría [(pdf)](/docs/UnidadII/Teoría/EIDA_Unidad_II.pdf) [(tex)](/docs/UnidadII/Teoría/EIDA_Unidad_II.zip)
   * Práctica [(pdf)](/docs/UnidadII/LaboratorioII/Laboratorio_II.pdf) [(tex)](/docs/UnidadII/LaboratorioII/Laboratorio_II.zip) [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/python_basico.ipynb)
 * **Unidad III**: Preprocesamiento y generación de características
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) 
+  * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
 * **Unidad IV**: Regresión
   * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
