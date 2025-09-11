@@ -29,19 +29,19 @@ algoritmos
   * Práctica [(pdf)](/docs/UnidadII/LaboratorioII/Laboratorio_II.pdf) [(tex)](/docs/UnidadII/LaboratorioII/Laboratorio_II.zip) [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/python_basico.ipynb)
 * **Unidad III**: Preprocesamiento y generación de características
   * Teoría [(pdf)]() [(tex)]() 
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad IV**: Regresión
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad V**: Máquinas de Soporte Vectorial (SVM)
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad VI**: Redes Neuronales
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad VII**: Aprendizaje No supervisado
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]()
 
 
 ## Material
