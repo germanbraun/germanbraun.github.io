@@ -21,27 +21,27 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 ## Clases y Prácticos
 
 * **Unidad I**: Introducción al Aprendizaje Automático
-  * Teoría [(pdf)](/docs/Administrativa/EIDA_Admin.pdf) [(tex)](/docs/Administrativa/EIDA_Admin.zip)
+  * Teoría [(pdf)](/docs/UnidadI/Teoría/EIDA_Unidad_I.pdf) [(tex)](/docs/UnidadI/Teoría/EIDA_Unidad_I.zip)
   * Práctica [(pdf)](/docs/UnidadI/LaboratorioI/Laboratorio_1.pdf) [(tex)](/docs/UnidadI/LaboratorioI/Laboratorio_1.zip)
 * **Unidad II**:  Clasificación del Aprendizaje Automático y
 algoritmos
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)](/docs/UnidadII/Teoría/EIDA_Unidad_II.pdf) [(tex)](/docs/UnidadII/Teoría/EIDA_Unidad_II.zip)
   * Práctica [(pdf)](/docs/UnidadII/LaboratorioII/Laboratorio_II.pdf) [(tex)](/docs/UnidadII/LaboratorioII/Laboratorio_II.zip) [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/python_basico.ipynb)
 * **Unidad III**: Preprocesamiento y generación de características
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) 
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad IV**: Regresión
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad V**: Máquinas de Soporte Vectorial (SVM)
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad VI**: Redes Neuronales
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]() 
 * **Unidad VII**: Aprendizaje No supervisado
-  * Teoría [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
-  * Práctica [(pdf)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(tex)](https://pedco.uncoma.edu.ar/course/view.php?id=9477) [(notebooks)](https://pedco.uncoma.edu.ar/course/view.php?id=9477)
+  * Teoría [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)]() [(tex)]()
 
 
 ## Material
