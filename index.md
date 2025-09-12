@@ -23,7 +23,7 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 * **Unidad I**: Introducción al Aprendizaje Automático
   * Teoría [(pdf)](/docs/UnidadI/Teoría/EIDA_Unidad_I.pdf) [(tex)](/docs/UnidadI/Teoría/EIDA_Unidad_I.zip)
   * Práctica [(pdf)](/docs/UnidadI/LaboratorioI/Laboratorio_1.pdf) [(tex)](/docs/UnidadI/LaboratorioI/Laboratorio_1.zip) 
-  * * Aspectos éticos [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadI/LaboratorioI/aif360-fairness.ipynb) 
+    * Aspectos éticos [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadI/LaboratorioI/aif360-fairness.ipynb) 
 * **Unidad II**:  Clasificación del Aprendizaje Automático y
 algoritmos
   * Teoría [(pdf)](/docs/UnidadII/Teoría/EIDA_Unidad_II.pdf) [(tex)](/docs/UnidadII/Teoría/EIDA_Unidad_II.zip)
