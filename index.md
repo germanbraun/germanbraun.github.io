@@ -28,6 +28,9 @@ _El estudiante adquirirá conocimientos generales y prácticos del estado del ar
 algoritmos
   * Teoría [(pdf)](/docs/UnidadII/Teoría/EIDA_Unidad_II.pdf) [(tex)](/docs/UnidadII/Teoría/EIDA_Unidad_II.zip)
   * Práctica [(pdf)](/docs/UnidadII/LaboratorioII/Laboratorio_II.pdf) [(tex)](/docs/UnidadII/LaboratorioII/Laboratorio_II.zip) [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/python_basico.ipynb)
+    * Aprendizaje por Refuerzo [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/game-refuerzo.ipynb) 
+   * Aprendizaje Supervisado [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/Precios%20de%20Casas%20dada%20su%20superficie.ipynb)
+   * Aprendizaje No Supervisado [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/iris-solo-una-feature.ipynb) 
 * **Unidad III**: Preprocesamiento y generación de características
   * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)]() [(tex)]() 
