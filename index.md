@@ -33,7 +33,10 @@ algoritmos
     * Aprendizaje No Supervisado [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/iris-solo-una-feature.ipynb) 
 * **Unidad III**: Preprocesamiento y generación de características
   * Teoría [(pdf)](/docs/UnidadIII/Teoria/EIDA_Unidad_III.pdf) [(tex)](/docs/UnidadIII/Teoria/EIDA_Unidad_III.zip) 
-  * Práctica [(pdf)](/docs/UnidadIII/Laboratorio/Laboratorio_III.pdf) [(tex)](/docs/UnidadIII/Laboratorio/Laboratorio_III.zip) 
+  * Práctica [(pdf)](/docs/UnidadIII/Laboratorio/Laboratorio_III.pdf) [(tex)](/docs/UnidadIII/Laboratorio/Laboratorio_III.zip)
+    * Selección de Atributos [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/Seleccion-Atributos.ipynb) 
+    * LASSO [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/LASSO.ipynb)
+    * PCA [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/PCA.ipynb) 
 * **Unidad IV**: Regresión
   * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)]() [(tex)]() 
