@@ -32,8 +32,8 @@ algoritmos
     * Aprendizaje Supervisado [(notebook 1)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/Precios%20de%20Casas%20dada%20su%20superficie.ipynb) [(notebook 2)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/clasificador-spam.ipynb)
     * Aprendizaje No Supervisado [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadII/LaboratorioII/iris-solo-una-feature.ipynb) 
 * **Unidad III**: Preprocesamiento y generación de características
-  * Teoría [(pdf)]() [(tex)]() 
-  * Práctica [(pdf)]() [(tex)]() 
+  * Teoría [(pdf)](/docs/UnidadIII/Teoria/EIDA_Unidad_III.pdf) [(tex)](/docs/UnidadIII/Teoria/EIDA_Unidad_III.zip) 
+  * Práctica [(pdf)](/docs/UnidadIII/Laboratorio/Laboratorio_III.pdf) [(tex)](/docs/UnidadIII/Laboratorio/Laboratorio_III.zip) 
 * **Unidad IV**: Regresión
   * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)]() [(tex)]() 
