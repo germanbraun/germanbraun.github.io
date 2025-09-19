@@ -38,7 +38,7 @@ algoritmos
     * LASSO [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/LASSO.ipynb)
     * PCA [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/PCA.ipynb) 
 * **Unidad IV**: Regresión
-  * Teoría [(pdf)]() [(tex)]() 
+  * Teoría [(pdf)](/docs/UnidadIV/Teoria/EIDA_Unidad_IV.pdf) [(tex)](/docs/UnidadIV/Teoria/EIDA_Unidad_IV.zip) 
   * Práctica [(pdf)](/docs/UnidadIV/Laboratorio/Laboratorio_IV.pdf) [(tex)](/docs/UnidadIV/Laboratorio/Laboratorio_IV.zip)
     * Regresión Lineal [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/RegresionLineal.ipynb)
     * Gradiente Estocástico [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/GradienteEstocastico.ipynb) 
