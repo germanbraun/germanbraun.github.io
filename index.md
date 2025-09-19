@@ -39,7 +39,10 @@ algoritmos
     * PCA [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIII/Laboratorio/PCA.ipynb) 
 * **Unidad IV**: Regresión
   * Teoría [(pdf)]() [(tex)]() 
-  * Práctica [(pdf)]() [(tex)]() 
+  * Práctica [(pdf)](/docs/UnidadIV/Laboratorio/Laboratorio_IV.pdf) [(tex)](/docs/UnidadIV/Laboratorio/Laboratorio_IV.zip)
+    * Regresión Lineal [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/RegresionLineal.ipynb)
+    * Gradiente Estocástico [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/GradienteEstocastico.ipynb) 
+    * Regresión Logística [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/RegresionLogistica.ipynb) 
 * **Unidad V**: Máquinas de Soporte Vectorial (SVM)
   * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)]() [(tex)]() 
