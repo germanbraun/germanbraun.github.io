@@ -44,8 +44,9 @@ algoritmos
     * Gradiente Estocástico [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/GradienteEstocastico.ipynb) 
     * Regresión Logística [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadIV/Laboratorio/RegresionLogistica.ipynb) 
 * **Unidad V**: Máquinas de Soporte Vectorial (SVM)
-  * Teoría [(pdf)]() [(tex)]() 
-  * Práctica [(pdf)]() [(tex)]() 
+  * Teoría [(pdf)](/docs/UnidadV/Teoria/EIDA_Unidad_V.pdf) [(tex)](/docs/UnidadIV/Teoria/EIDA_Unidad_V.zip) 
+  * Práctica [(pdf)](/docs/UnidadV/Laboratorio/Laboratorio_V.pdf) [(tex)](/docs/UnidadIV/Laboratorio/Laboratorio_V.zip)
+    * Kernel trick [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadV/Laboratorio/KernelTrick.ipynb)
 * **Unidad VI**: Redes Neuronales
   * Teoría [(pdf)]() [(tex)]() 
   * Práctica [(pdf)]() [(tex)]() 
