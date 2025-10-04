@@ -61,6 +61,11 @@ algoritmos
 
 ## Material
 
+### Recursos Adicionales
+* [Regresión Lineal Resumen](/docs/Recursos/linearRegr.jpeg)
+* [Regresión Logística Resumen](/docs/Recursos/logRegr.jpeg)
+* [Support Vector Machine Resumen](/docs/Recursos/svm.jpeg)
+
 ### Ambiente
 [Entorno de Trabajo Jupyter](https://jupyter.fi.uncoma.edu.ar/hub/login?next=%2Fhub%2F) (usar credenciales provistas por TICs)
 
