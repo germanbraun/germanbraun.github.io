@@ -53,8 +53,10 @@ algoritmos
     * XOR [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/XOR.ipynb)
     * MNIST [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/ANN-MNIST.ipynb) 
 * **Unidad VII**: Aprendizaje No supervisado
-  * Teoría [(pdf)]() [(tex)]() 
-  * Práctica [(pdf)]() [(tex)]()
+  * Teoría [(pdf)](/docs/UnidadVII/Teoria/EIDA_Unidad_VII.pdf) [(tex)](/docs/UnidadVII/Teoria/EIDA_Unidad_VII.zip) 
+  * Práctica [(pdf)](/docs/UnidadVII/Laboratorio/Laboratorio_VII.pdf) [(tex)](/docs/UnidadVII/Laboratorio/Laboratorio_VII.zip)
+    * iris clustering [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVII/Laboratorio/iris_clustering.ipynb)
+    * MNIST k-means [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVII/Laboratorio/kmeans_MNIST.ipynb) 
 
 
 ## Material
