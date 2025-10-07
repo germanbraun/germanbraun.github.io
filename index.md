@@ -52,7 +52,7 @@ algoritmos
   * Práctica [(pdf)](/docs/UnidadVI/Laboratorio/Laboratorio_VI.pdf) [(tex)](/docs/UnidadVI/Laboratorio/Laboratorio_VI.zip)
     * XOR [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/XOR.ipynb)
     * MNIST [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/ANN-MNIST.ipynb)
-      * [Tips para entrenar una red neuronal](https://karpathy.github.io/2019/04/25/recipe/)  
+    * [Tips para entrenar una red neuronal](https://karpathy.github.io/2019/04/25/recipe/)  
 * **Unidad VII**: Aprendizaje No supervisado
   * Teoría [(pdf)](/docs/UnidadVII/Teoria/EIDA_Unidad_VII.pdf) [(tex)](/docs/UnidadVII/Teoria/EIDA_Unidad_VII.zip) 
   * Práctica [(pdf)](/docs/UnidadVII/Laboratorio/Laboratorio_VII.pdf) [(tex)](/docs/UnidadVII/Laboratorio/Laboratorio_VII.zip)
