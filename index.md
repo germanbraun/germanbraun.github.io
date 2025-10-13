@@ -48,7 +48,7 @@ algoritmos
   * Práctica [(pdf)](/docs/UnidadV/Laboratorio/Laboratorio_V.pdf) [(tex)](/docs/UnidadV/Laboratorio/Laboratorio_V.zip)
     * Kernel trick [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadV/Laboratorio/KernelTrick.ipynb)
 * **Unidad VI**: Redes Neuronales
-  * Teoría [(pdf)](/docs/UnidadVI/Teoría/EIDA_Unidad_VI.pdf) [(tex)](/docs/UnidadVI/Teoría/EIDA_Unidad_VI.zip) 
+  * Teoría [(pdf)](/docs/UnidadVI/Teoria/EIDA_Unidad_VI.pdf) [(tex)](/docs/UnidadVI/Teoría/EIDA_Unidad_VI.zip) 
   * Práctica [(pdf)](/docs/UnidadVI/Laboratorio/Laboratorio_VI.pdf) [(tex)](/docs/UnidadVI/Laboratorio/Laboratorio_VI.zip)
     * XOR [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/XOR.ipynb)
     * MNIST [(notebook)](https://github.com/germanbraun/germanbraun.github.io/blob/main/docs/UnidadVI/Laboratorio/ANN-MNIST.ipynb)
